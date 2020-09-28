@@ -1,7 +1,7 @@
 # ----------------------------------
-# Pterodactyl Core Dockerfile
-# Environment: Java (glibc support)
-# Minimum Panel Version: 0.6.0
+# Pterodactyl Panel Dockerfile
+# Environment: Java 7 (glibc support)
+# Minimum Panel Version: 1.0.0
 # ----------------------------------
 FROM        openjdk:7-jre-slim
 
